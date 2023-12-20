@@ -1,0 +1,1 @@
+using ProcessorService as service from 'SAP Business Application Studio/srv/processor-service';
